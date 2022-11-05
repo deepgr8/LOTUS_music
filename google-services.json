@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "835562763088",
+    "project_id": "musicomania-dabb1",
+    "storage_bucket": "musicomania-dabb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835562763088:android:965ebcdcc88818917f3255",
+        "android_client_info": {
+          "package_name": "com.example.lotusmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835562763088-god0bnmkld5r10hamq9ml10n670dtucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3vPtUArLNCSq2yqWxl0qQNt-EKef1Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835562763088-god0bnmkld5r10hamq9ml10n670dtucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835562763088:android:d9fedd18462835017f3255",
+        "android_client_info": {
+          "package_name": "com.example.musicomania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835562763088-god0bnmkld5r10hamq9ml10n670dtucu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3vPtUArLNCSq2yqWxl0qQNt-EKef1Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835562763088-god0bnmkld5r10hamq9ml10n670dtucu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
